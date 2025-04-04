@@ -1,16 +1,19 @@
-## Hi there 👋
+- 👋 Hi there! I'm **Chegdati_Chouaib**, an AI and Data Science student from Morocco. I'm currently working on various projects involving TensorFlow, Yolo , machine learning, computer vision....
+- 🎓 I’m studying at **ENSAM Meknès**. 
+- 🌱 I'm passionate about **artificial intelligence**, **machine learning**, **data science**, **Generative IA** , **deep learning** ...
+- 🎯 My goal is to become a skilled **AI engineer** and contribute to innovative projects in the field.
+- 🌍 Feel free to connect with me on LinkedIn or reach out through GitHub!
+- [LinkedIn](https://www.linkedin.com/in/chouaib-chegdati-75a3a3302/)
 
-<!--
-**chouaibneuralnets/chouaibneuralnets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Some of my projects:
+- [Parking Space recognition with a reservation system](https://github.com/chouaib100526/My_project)
+- [Object Localization with TensorFlow](https://github.com/chouaib100526/object_localisation_project)
+- [tiktactoe game](https://github.com/chouaib100526/tictactoe_game.)
+- [taquin game](https://github.com/chouaib100526/taquin)
+- [maze game](https://github.com/chouaib100526/maze)
+  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!---
+chouaib100526/chouaib100526 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->

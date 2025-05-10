@@ -3,6 +3,7 @@
 - 🌱 I'm passionate about **artificial intelligence**, **machine learning**, **data science**, **Generative IA** , **deep learning** ...
 - 🎯 My goal is to become a skilled **AI engineer** and contribute to innovative projects in the field.
 - 🌍 Feel free to connect with me on LinkedIn or reach out through GitHub!
+- [My Portfolio](https://chouaibneuralnets.github.io/my_portfolio/)
 - [LinkedIn](https://www.linkedin.com/in/chouaib-chegdati-75a3a3302/)
 
 ## Some of my projects:

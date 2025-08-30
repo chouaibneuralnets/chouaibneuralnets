@@ -11,8 +11,8 @@
 - [Pipeline Object Detection](https://github.com/chouaibneuralnets/Pipeline_Object_Detection)
 - [Parking Space recognition with a reservation system](https://github.com/chouaib100526/My_project)
 - [Object Localization with TensorFlow](https://github.com/chouaib100526/object_localisation_project)
+- [movie_recommender](https://github.com/chouaibneuralnets/movie_recommender)
 - [tiktactoe game](https://github.com/chouaib100526/tictactoe_game.)
-- [taquin game](https://github.com/chouaib100526/taquin)
 - [maze game](https://github.com/chouaib100526/maze)
   
 

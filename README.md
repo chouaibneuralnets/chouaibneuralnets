@@ -7,6 +7,7 @@
 - [LinkedIn](https://www.linkedin.com/in/chouaib-chegdati-75a3a3302/)
 
 ## Some of my projects:
+- [Pipeline Object Detection](https://github.com/chouaibneuralnets/Pipeline_Object_Detection)
 - [Parking Space recognition with a reservation system](https://github.com/chouaib100526/My_project)
 - [Object Localization with TensorFlow](https://github.com/chouaib100526/object_localisation_project)
 - [tiktactoe game](https://github.com/chouaib100526/tictactoe_game.)

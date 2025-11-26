@@ -5,22 +5,20 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chouaibneuralnets" alt="chouaibneuralnets" /></a> </p>
 
-- Industrial Multimodal Chatbot – Makerkit A multilingual (French, English, Arabic) industrial chatbot that accepts text and audio inputs. Built on Makerkit, with Supabase for authentication, Docker for deployment, and ChromaDB for data management. **Multimodal Document Chatbot**
+- 💼 I’m currently working on an expertise project: Industrial Multimodal Chatbot – Makerkit A multilingual (French, English, Arabic) industrial chatbot that accepts text and audio inputs. Built on Makerkit, with Supabase for authentication, Docker for deployment, and ChromaDB for data management. **Multimodal Document Chatbot**
 
 - 🌱 I’m currently taking **courses on Coursera to deepen my knowledge in AI, Data Science, ML, DL, LLMs, and Computer Vision.**
 
-- 👨‍💻 All of my projects are available at [https://chouaibneuralnets.github.io/my_portfolio/#](https://chouaibneuralnets.github.io/my_portfolio/#)
+- 👨‍💻 All of my projects and professional experiences are available here [https://chouaibneuralnets.github.io/my_portfolio/#](https://chouaibneuralnets.github.io/my_portfolio/#)
 
 - 💬 Ask me about **AI & Data Science, Machine Learning & Deep Learning, LLMs, RAG, OCR/ASR/TTS/SST, Computer Vision & Multimodal AI, SaaS solutions & Makerkit, Vibe Coding and project deployment, as well as Hackathons & AI project development.**
 
 - 📫 How to reach me **chegdatichouaib@gmail.com**
 
-- 📄 Know about my experiences [https://chouaibneuralnets.github.io/my_portfolio/#](https://chouaibneuralnets.github.io/my_portfolio/#)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/chouaib-chegdati-75a3a3302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chouaib-chegdati-75a3a3302" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@chouaibchegdati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@chouaibchegdati" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/[@chouaibchegdati](https://www.youtube.com/@chouaibchegdati)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="[@chouaibchegdati](https://www.youtube.com/@chouaibchegdati)" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
